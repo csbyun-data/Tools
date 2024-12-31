@@ -6,5 +6,5 @@ a collection of Tools
   * 1.2 
 
 * 2.Programming
-  * 2.1 Numerical recepies made in C++ and in python3 language [here](https://github.com/KrzysiekJa/Numerical-recepies)
+  * 2.1 Numerical recepies made in C++ and in python3 [here](https://github.com/KrzysiekJa/Numerical-recepies)
   * 2.1 Numerical recepies in C [here](https://github.com/saulwiggin/Numerical-Recipies-in-C)
