@@ -11,4 +11,4 @@ a collection of Tools
 
 * Clojure (XLISP)
   * Clojure in Java [here](https://github.com/clojure/)
-  * [https://clojure.org/](https://clojure.org/)
+  * [https://clojure.org](https://clojure.org/)
