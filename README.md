@@ -7,4 +7,8 @@ a collection of Tools
 
 * 2.Programming
   * 2.1 Numerical recepies made in C++ and in python3 [here](https://github.com/KrzysiekJa/Numerical-recepies)
-  * 2.1 Numerical recepies in C [here](https://github.com/saulwiggin/Numerical-Recipies-in-C)
+  * 2.2 Numerical recepies in C [here](https://github.com/saulwiggin/Numerical-Recipies-in-C)
+
+* Clojure (XLISP)
+  * Clojure in Java [here](https://github.com/clojure/)
+  * [https://clojure.org/](https://clojure.org/)
