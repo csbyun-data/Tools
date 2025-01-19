@@ -10,6 +10,5 @@ a collection of Tools
   * 2.2 Numerical recepies in C [here](https://github.com/saulwiggin/Numerical-Recipies-in-C)
 
 * Clojure (XLISP)
-  * Clojure in Java [java Code](https://github.com/clojure/)
-  * [https://clojure.org](https://clojure.org/)
+  * Clojure in Java [java Code](https://github.com/clojure/), [https://clojure.org](https://clojure.org/)
   * lisp-books [https://github.com/lisp-books/lisp-books](https://github.com/lisp-books/lisp-books)
