@@ -12,3 +12,6 @@ a collection of Tools
 * Clojure (XLISP)
   * Clojure in Java [java Code](https://github.com/clojure/), [https://clojure.org](https://clojure.org/)
   * lisp-books [https://github.com/lisp-books/lisp-books](https://github.com/lisp-books/lisp-books)
+
+* Computer Science
+  * USEFUL FREEWARE for Computer Science Students [link](https://home.cs.colorado.edu/~main/freeware.html)
